@@ -20,7 +20,7 @@ To perform a prediction you will need to access through REST client applications
 	 "message": "i feel passionate about people particularly those i love admire and respect",
 	 "method": "dl"
  }
-3. The address is: http://your_port:4000/predecir 
+3. The address is: http://127.0.0.1:4000/predecir 
 
 In this repo you will find: 
 * Two trained sentiment models. 
