@@ -34,3 +34,4 @@ If downloading the image from Docker hub please run with the following instructi
 
 > docker run -dp 4000:4000 gca1205/interviewapp
 
+A word of caution: the app may take some time to return a reponse when using the dl method. 
